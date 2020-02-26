@@ -1,10 +1,10 @@
-# flutter_login_screen
+# ZOOMED Mobile Application
 
-A new Flutter application.
+A Flutter based Car tracking application.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is an application designed by the zuoix team to be used with the zoomed security system.
 
 A few resources to get you started if this is your first Flutter project:
 
